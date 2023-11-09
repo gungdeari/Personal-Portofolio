@@ -7,7 +7,8 @@
 }
 
 body {
-    background-color: #F1EFEF   ;
+    background-color: #F1EFEF;
+    overflow-x: hidden;
 }
 
 .container {
